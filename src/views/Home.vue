@@ -3,6 +3,8 @@
     <HelloWorld msg="Welcome to Your Vue.js App" />
     
     <button @click="logout">Logout</button>
+
+    <p>This is a test from Develop branch.</p>
   </div>
 
 </template>
